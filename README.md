@@ -11,7 +11,7 @@ API Used: https://alquran.cloud/api
 
 ✅ No-Ads
 ✅ Offline Mode
-✅ Bug Fixes from previous versions
+
 
 ## 🔑 License
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
